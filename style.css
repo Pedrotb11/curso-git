@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f0f4ff; /* fundo azul claro */
+    color: #222;
+    text-align: center; /* centraliza todo texto */
+}
+
+h1 {
+    margin-top: 80px;
+    color: #1a73e8; /* azul mais forte */
+}
+
+h2 {
+    margin-top: 20px;
+    color: #e91e63; /* rosa */
+}
+
